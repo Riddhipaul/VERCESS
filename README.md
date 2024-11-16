@@ -1,6 +1,9 @@
 # VERCESS
 Built an intelligent productivity tool to manage email communications, featuring a chat interface and priority-based email filtering and sorting system.
 
+
+![image](https://github.com/user-attachments/assets/41696d28-4630-428e-b64a-46dc6d561654)
+
 # Email Management and Prioritization Tool
 
 This project is an AI-powered productivity tool that helps users manage their email communications efficiently. It features a chat interface and an intelligent system that filters, sorts, and prioritizes emails based on urgency and relevance. Built with **Flask**, **ReactJS**, **OpenAI**, **LangChain**, **Hugging Face**, and **Google Gmail API**.
