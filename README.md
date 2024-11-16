@@ -31,4 +31,18 @@ This project is an AI-powered productivity tool that helps users manage their em
 1. Clone the repository:
    ```bash
    git clone https://github.com/yourusername/yourrepository.git
-   cd yourrepository
+   cd yourrepository```
+
+   
+2. Install backend dependencies:
+   ``` pip install -r requirements.txt ```
+3. Install frontend dependencies:
+      ```cd frontend
+      npm install  ```
+### Running the Application
+1. Start the Frontend
+In the frontend directory, run:
+   ```npm start ```
+2. Start the Backend
+   ``` python app.py ```
+
