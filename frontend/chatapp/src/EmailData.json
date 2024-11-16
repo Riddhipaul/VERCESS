@@ -1,0 +1,107 @@
+[
+    {
+        "id": "1234567890abcdef",
+        "threadId": "0987654321fedcba",
+        "labelIds": ["INBOX", "UNREAD"],
+        "snippet": "Meeting at 8 PM with Marketing Team.",
+        "payload": {
+            "headers": [
+                {"name": "From", "value": "sender1@example.com"},
+                {"name": "To", "value": "recipient1@example.com"},
+                {"name": "Subject", "value": "Meeting at 8 PM with Marketing Team"},
+                {"name": "Date", "value": "2023-10-01T12:34:56Z"}
+            ],
+            "body": {
+                "size": 1024,
+                "data": "TWVldGluZyBhdCA4IFBNIHdpdGggdGhlIE1hcmtldGluZyBUZWFtLiBNZW1iZXJzOiBBbGljZSwgQm9iLCBDaGFybGllLCBhbmQgRGF2aWQu"
+            }
+        },
+        "sizeEstimate": 2048,
+        "historyId": "1234567890",
+        "internalDate": "1633072496000"
+    },
+    {
+        "id": "abcdef1234567890",
+        "threadId": "fedcba0987654321",
+        "labelIds": ["INBOX", "IMPORTANT"],
+        "snippet": "Meet with the CEO at 6:45.",
+        "payload": {
+            "headers": [
+                {"name": "From", "value": "sender2@example.com"},
+                {"name": "To", "value": "recipient2@example.com"},
+                {"name": "Subject", "value": "Meet with the CEO at 6:45"},
+                {"name": "Date", "value": "2023-10-02T12:34:56Z"}
+            ],
+            "body": {
+                "size": 2048,
+                "data": "TWVldCB3aXRoIHRoZSBDQU8gYXQgNi40NSBQTS4gUmVjZWl2ZSB5b3VyIGZlZWRiYWNrLg=="
+            }
+        },
+        "sizeEstimate": 4096,
+        "historyId": "0987654321",
+        "internalDate": "1633158896000"
+    },
+    {
+        "id": "1234567890abcdef",
+        "threadId": "0987654321fedcba",
+        "labelIds": ["INBOX", "UNREAD"],
+        "snippet": "Review the new product.",
+        "payload": {
+            "headers": [
+                {"name": "From", "value": "sender3@example.com"},
+                {"name": "To", "value": "recipient3@example.com"},
+                {"name": "Subject", "value": "Review the New Product"},
+                {"name": "Date", "value": "2023-10-03T12:34:56Z"}
+            ],
+            "body": {
+                "size": 1024,
+                "data": "UmV2aWV3IHRoZSBuZXcgcHJvZHVjdC4gUGxlYXNlIGZpbGwgb3V0IHRoZSBmb3JtYXQgYW5kIHN1Ym1pdCBieSAxMCBhbS4="
+            }
+        },
+        "sizeEstimate": 2048,
+        "historyId": "1234567890",
+        "internalDate": "1633245296000"
+    },
+    {
+        "id": "abcdef1234567890",
+        "threadId": "fedcba0987654321",
+        "labelIds": ["INBOX", "IMPORTANT"],
+        "snippet": "KT to the new team.",
+        "payload": {
+            "headers": [
+                {"name": "From", "value": "sender4@example.com"},
+                {"name": "To", "value": "recipient4@example.com"},
+                {"name": "Subject", "value": "KT to the New Team"},
+                {"name": "Date", "value": "2023-10-04T12:34:56Z"}
+            ],
+            "body": {
+                "size": 2048,
+                "data": "S1QgdG8gdGhlIG5ldyB0ZWFtLiBQbGVhc2UgYmUgcHJlcGFyZWQgZm9yIHRoZSBleGFtIGF0IDkgUE0u"
+            }
+        },
+        "sizeEstimate": 4096,
+        "historyId": "0987654321",
+        "internalDate": "1633331696000"
+    },
+    {
+        "id": "1234567890abcdef",
+        "threadId": "0987654321fedcba",
+        "labelIds": ["INBOX", "UNREAD"],
+        "snippet": "Handle client calls.",
+        "payload": {
+            "headers": [
+                {"name": "From", "value": "sender5@example.com"},
+                {"name": "To", "value": "recipient5@example.com"},
+                {"name": "Subject", "value": "Handle Client Calls"},
+                {"name": "Date", "value": "2023-10-05T12:34:56Z"}
+            ],
+            "body": {
+                "size": 1024,
+                "data": "SGFuZGxlIGNsaWVudCBjYWxscy4gUGxlYXNlIGJlIGF3YXJlIG9mIHRoZSBmb2xsb3dpbmcgY2FsbHM6IENsaWNrZXIsIE1jQW5kaWxsYSwgYW5kIE1pY2hhZWwu"
+            }
+        },
+        "sizeEstimate": 2048,
+        "historyId": "1234567890",
+        "internalDate": "1633418096000"
+    }
+]
